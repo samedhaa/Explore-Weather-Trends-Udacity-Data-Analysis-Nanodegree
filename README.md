@@ -12,4 +12,4 @@
 ##### • I made observations the i saw related to the data "you can find more details on the Report file"
 ##### • I made a conclusion about the data.
 
-#### • [you can navigate the data with IPython Notebook (Jupyter) using mybinder in the link below by clicking here](https://mybinder.org/v2/gh/samedhaa/Explore-Weather-Trends-Udacity-Data-Analysis-Nanodegree-Project-01/master)  
+## • [you can navigate the data with IPython Notebook (Jupyter) using mybinder in the link below by clicking here](https://mybinder.org/v2/gh/samedhaa/Explore-Weather-Trends-Udacity-Data-Analysis-Nanodegree-Project-01/master)  
